@@ -29,6 +29,7 @@ namespace DMQuyetTien.Controllers
             return File(path, "images");
 
         }
+        //comment
 
         // GET: /BangSanPham/Create
         public ActionResult Create()
